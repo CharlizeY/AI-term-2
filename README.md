@@ -1,2 +1,2 @@
 # AI-term-2
-Coding Coursework for NLP, Machine Learning Fairness, and Probabilistic Inference from MSc AI.
+Coding Coursework for Machine Learning Fairness and Probabilistic Inference from MSc AI.
